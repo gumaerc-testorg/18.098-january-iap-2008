@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 09506fda-f073-8fa1-2707-d6e5db761684
 resourcetype: Document
 title: feedback.pdf
 uid: e3b3a9b5-fff8-a4fe-3530-524664132e7b

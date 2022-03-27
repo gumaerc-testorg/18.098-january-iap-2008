@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1920b094-8f7f-7777-7a7a-afdf0a1110f1
 resourcetype: Document
 title: toc.pdf
 uid: 138fcf47-f2fd-c11b-6dbc-09b015521f02
