@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about logistics, problem sets, grading, recommended citation, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ This course is designed to teach you a flexible attitude toward problem solving.
 Logistics
 ---------
 
-In lecture, I will introduce you to each skill or tool through a series of examples, often posed as questions. Afterwards, you can read more in the corresponding book chapter (see [readings]({{< baseurl >}}/pages/readings)). At the end of each session, you will have the opportunity to submit any questions you may have and give ongoing feedback about the course content. The feedback form is given here: ([PDF]({{< baseurl >}}/resources/feedback)).
+In lecture, I will introduce you to each skill or tool through a series of examples, often posed as questions. Afterwards, you can read more in the corresponding book chapter (see {{% resource_link 1920b094-8f7f-7777-7a7a-afdf0a1110f1 "readings" %}}). At the end of each session, you will have the opportunity to submit any questions you may have and give ongoing feedback about the course content. The feedback form is given here: ({{% resource_link e3b3a9b5-fff8-a4fe-3530-524664132e7b "PDF" %}}).
 
 Problem Sets
 ------------
