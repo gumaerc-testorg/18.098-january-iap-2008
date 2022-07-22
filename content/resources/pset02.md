@@ -5,6 +5,7 @@ file: /courses/18-098-street-fighting-mathematics-january-iap-2008/66ec5f1074c07
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset02.pdf
 uid: 66ec5f10-74c0-7743-807c-fc23546e5761
 ---
 Problem set.
-

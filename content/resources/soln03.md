@@ -5,6 +5,7 @@ file: /courses/18-098-street-fighting-mathematics-january-iap-2008/40d0f5ec319c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: soln03.pdf
 uid: 40d0f5ec-319c-67b4-2f27-a7786bdfdcf1
 ---
 Solutions to Problem Set 3.
-

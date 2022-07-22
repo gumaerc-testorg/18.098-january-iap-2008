@@ -5,6 +5,7 @@ file: /courses/18-098-street-fighting-mathematics-january-iap-2008/2ffff1463c306
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: logarithms.pdf
 uid: 2ffff146-3c30-6726-6a99-b5daf9a06e81
 ---
 Class handout on approximating logarithms using musical intervals.
-

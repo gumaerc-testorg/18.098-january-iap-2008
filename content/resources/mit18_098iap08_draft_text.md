@@ -5,6 +5,7 @@ file: /courses/18-098-street-fighting-mathematics-january-iap-2008/d937ad2ca4b78
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Street Fighting Mathematics draft text
 uid: d937ad2c-a4b7-839a-5b3b-d92e30ee483e
 ---
 Street Fighting Mathematics draft text including new cover
-
