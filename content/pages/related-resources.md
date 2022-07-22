@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of books that present calculus, fluid motion,
+  and problem solving in accessible ways.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 8d92733d-6de4-e4ca-f138-cf06c99bab94
 ---
