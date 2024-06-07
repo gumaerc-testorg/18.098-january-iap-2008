@@ -2,6 +2,7 @@
 content_type: resource
 description: Class handout on approximating logarithms using musical intervals.
 file: /courses/18-098-street-fighting-mathematics-january-iap-2008/2ffff1463c3067266a99b5daf9a06e81_logarithms.pdf
+file_size: 97019
 file_type: application/pdf
 learning_resource_types:
 - Readings

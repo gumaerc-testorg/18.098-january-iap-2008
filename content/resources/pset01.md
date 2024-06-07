@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/18-098-street-fighting-mathematics-january-iap-2008/eec2d3694177e6a5e5c9081ba75713f1_pset01.pdf
+file_size: 175835
 file_type: application/pdf
 learning_resource_types:
 - Assignments
