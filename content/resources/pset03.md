@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/18-098-street-fighting-mathematics-january-iap-2008/2d2f457105c656c5812ceabd7f23094d_pset03.pdf
+file: /ol-ocw-studio-app/courses/18-098-street-fighting-mathematics-january-iap-2008/2d2f457105c656c5812ceabd7f23094d_pset03.pdf
 file_size: 146081
 file_type: application/pdf
 learning_resource_types:

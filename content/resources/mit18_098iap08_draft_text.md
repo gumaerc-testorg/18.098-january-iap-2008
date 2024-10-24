@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Street Fighting Mathematics draft text including new cover
-file: /courses/18-098-street-fighting-mathematics-january-iap-2008/d937ad2ca4b7839a5b3bd92e30ee483e_MIT18_098IAP08_draft_text.pdf
+file: /ol-ocw-studio-app/courses/18-098-street-fighting-mathematics-january-iap-2008/d937ad2ca4b7839a5b3bd92e30ee483e_MIT18_098IAP08_draft_text.pdf
 file_size: 1373021
 file_type: application/pdf
 learning_resource_types:
