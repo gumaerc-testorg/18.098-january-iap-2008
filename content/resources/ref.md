@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of references from the course text, Street-fighting Mathematics.
-file: /ol-ocw-studio-app/courses/18-098-street-fighting-mathematics-january-iap-2008/9602c91441c082c7f792bb7e914b7b79_ref.pdf
+file: /courses/18-098-street-fighting-mathematics-january-iap-2008/9602c91441c082c7f792bb7e914b7b79_ref.pdf
 file_size: 140703
 file_type: application/pdf
 learning_resource_types:
