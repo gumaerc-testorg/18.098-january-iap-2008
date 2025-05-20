@@ -3,7 +3,7 @@ content_type: resource
 description: 'Table of contents to the course textbook, Street-fighting
 
   Mathematics.'
-file: /ol-ocw-studio-app/courses/18-098-street-fighting-mathematics-january-iap-2008/138fcf47f2fdc11b6dbc09b015521f02_toc.pdf
+file: /courses/18-098-street-fighting-mathematics-january-iap-2008/138fcf47f2fdc11b6dbc09b015521f02_toc.pdf
 file_size: 173888
 file_type: application/pdf
 learning_resource_types:
