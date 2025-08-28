@@ -43,9 +43,10 @@
   },
   "learning_resource_types": [
     "Problem Sets with Solutions",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "15fd5f11-de7a-4b32-a335-7d34b5eaec01",
   "site_short_id": "18.098-january-iap-2008",
+  "site_url_path": "courses/18-098-street-fighting-mathematics-january-iap-2008",
   "title": "Course Metadata"
 }
